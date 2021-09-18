@@ -1,0 +1,37 @@
+main {
+  width: 100%;
+  min-height: 40vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  max-width: 900px;
+  width: 90%;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.5rem;
+}
+.containerButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 3rem;
+}
+.buttonLoading {
+  background-color: #2bbff2;
+  color: #fff;
+  height: 3rem;
+  width: 10rem;
+  text-align: center;
+  border-radius: 0.3rem;
+  transition: 0.2ms;
+  text-transform: uppercase;
+}
+.buttonLoading:hover {
+  color: #2bbff2;
+  background-color: #fff;
+}

@@ -1,0 +1,121 @@
+{
+"products": [
+  {
+      "id": 1,
+      "image": "images/img_2.png",
+      "title": "camiseta mescla",
+      "price": 28.00,
+      "color": "gray",
+      "size": "M",
+      "date": "2000-05-15",
+      "installments": {
+          "times": 3,
+          "price": 9.33
+      }
+  }, {
+      "id": 2,
+      "image": "images/img_3.png",
+      "title": "saia em couro",
+      "price": 398.00,
+      "color": "black",
+      "size": "P",
+      "date": "2010-05-10",
+      "installments": {
+          "times": 5,
+          "price": 30.00
+      }
+  },
+  {
+    "id": 3,
+    "image": "images/img_4.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 4,
+    "image": "images/img_5.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 5,
+    "image": "images/img_6.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 6,
+    "image": "images/img_7.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 7,
+    "image": "images/img_8.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 8,
+    "image": "images/img_9.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+},
+{
+    "id": 9,
+    "image": "images/img_10.png",
+    "title": "saia em couro",
+    "price": 398.00,
+    "color": "black",
+    "size": "P",
+    "date": "2010-05-10",
+    "installments": {
+        "times": 5,
+        "price": 30.00
+    }
+}
+
+]
+}

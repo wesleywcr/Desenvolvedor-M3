@@ -1,10 +1,19 @@
-.container {
-  margin: 0 2rem;
-  line-height: 2;
-  width: 300px;
+.card {
+  width: 100%;
+  height: auto;
+
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.card > img {
+  padding: 1rem;
+}
+
+.title {
+  font-size: 1.2rem;
+  margin: 0.3rem;
 }
 .buttonBuy {
   background-color: #000;
@@ -13,7 +22,9 @@
   width: 10rem;
   text-align: center;
   border-radius: 0.3rem;
+  transition: 0.2ms;
 }
 .buttonBuy:hover {
+  color: #000;
   background-color: rgb(32, 32, 32);
 }
