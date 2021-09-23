@@ -55,9 +55,40 @@ function App() {
    <div className={styles.radios}>
 
    <input type="radio"  />
+   <label><span >P</span></label>
+   <input type="radio"  />
    <label><span >M</span></label>
    <input type="radio"  />
+   <label><span >G</span></label>
+   <input type="radio"  />
+   <label><span >GG</span></label>
+
+   <input type="radio"  />
    <label><span >P</span></label>
+   <input type="radio"  />
+   <label><span >M</span></label>
+   <input type="radio"  />
+   <label><span >G</span></label>
+   <input type="radio"  />
+   <label><span >GG</span></label>
+
+   <input type="radio"  />
+   <label><span >P</span></label>
+   <input type="radio"  />
+   <label><span >M</span></label>
+   <input type="radio"  />
+   <label><span >G</span></label>
+   <input type="radio"  />
+   <label><span >GG</span></label>
+
+   <input type="radio"  />
+   <label><span >P</span></label>
+   <input type="radio"  />
+   <label><span >M</span></label>
+   <input type="radio"  />
+   <label><span >G</span></label>
+   <input type="radio"  />
+   <label><span >GG</span></label>
      </div>
      
    <h3>Faixa de Preços</h3>
