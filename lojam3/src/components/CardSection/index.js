@@ -2,7 +2,11 @@ import { useState,useEffect } from "react";
 import Card from "../Card"
 import styles from "../../styles/CardSection.module.css"
 
+
 export default function CardSection(){
+
+  
+
   const [data, setData] = useState([])
   const [visible,setVisible] = useState(3)
 
@@ -30,6 +34,7 @@ export default function CardSection(){
         price={products.price}
         time={products.installments.times}
         portion={products.installments.price}
+      
        />
        ))}
         </div>

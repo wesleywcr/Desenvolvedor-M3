@@ -6,6 +6,9 @@ import CardSection from "./components/CardSection";
 import styles from '../src/styles/Home.module.css'
 
 function App() {
+  
+
+  
   const [checked, setChecked] = useState(false)
   
   const handleChange = () =>{
@@ -131,7 +134,7 @@ function App() {
      </select>
      </label>
     
-       <CardSection />
+       <CardSection  />
       
       </div>
      
